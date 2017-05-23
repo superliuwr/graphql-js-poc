@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/superliuwr/graphql-js-poc/issues"
   },
-  "homepage": "https://github.com/superliuwr/graphql-js-poc#readme"
+  "homepage": "https://github.com/superliuwr/graphql-js-poc#readme",
+  "dependencies": {
+    "graphql": "^0.9.6"
+  }
 }
