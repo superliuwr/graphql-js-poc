@@ -1,0 +1,25 @@
+{
+  "name": "graphql-js-poc",
+  "version": "1.0.0",
+  "description": "POC of using GraphQL to build a BFF.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/superliuwr/graphql-js-poc.git"
+  },
+  "keywords": [
+    "graphql",
+    "nodejs",
+    "express",
+    "poc"
+  ],
+  "author": "Marvin Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superliuwr/graphql-js-poc/issues"
+  },
+  "homepage": "https://github.com/superliuwr/graphql-js-poc#readme"
+}
